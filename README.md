@@ -97,8 +97,6 @@ The dataset contains information related to:
 * Event locations
 * Historical Mahakumbh records
 
-The analysis focuses on identifying patterns and trends from multiple Mahakumbh years. ([Mendeley Data][1])
-
 ---
 
 ## 🎯 Objectives
